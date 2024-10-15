@@ -1,0 +1,10 @@
+1,batatas chips,9.9
+2,tequila(copo),30.0
+3,sanduiche de carne de panela,35.9
+4,suco verde,10.0
+5,pacote de amendoins(300g),12.0
+6,bolo de chocolate(fatia),20.0
+7,refrigerante(2l),18.0
+8,bolo de pote,15.9
+9,salada,28.9
+10,hamburguer surpresa,32.9
