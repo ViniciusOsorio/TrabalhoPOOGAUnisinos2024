@@ -31,7 +31,8 @@ while(not fechar_sistema):
             limparTela()
             conf_data = input("Informe a data que deseja conferir (Formato: dd/mm/aa): ")            
             conf_quarto = input("\nAgora informe o quarto que deseja verificar: ")
-            pousada.consulta_disponibilidade(conf_data, conf_quarto)
+            print(pousada.consulta_disponibilidade(conf_data, conf_quarto))
+            input()
             limparTela()
         
         case "2":
@@ -61,7 +62,7 @@ while(not fechar_sistema):
 
         case "7":
             limparTela()
-            input("oper7")
+            lclz_reserva = input("Informe o nome do cliente: ")
             limparTela()
 
         case "8":

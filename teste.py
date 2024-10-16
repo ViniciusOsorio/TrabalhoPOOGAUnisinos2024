@@ -31,6 +31,11 @@ while(eol == False):
         print(split_array)
     else:
         eol = True
+teste_string = "t"
+if(teste_string.isnumeric()):
+    print(int(teste_string))
+else:
+    print("Não é número")
 
 
 
